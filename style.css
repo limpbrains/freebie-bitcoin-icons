@@ -1,0 +1,325 @@
+@font-face {
+	font-family: 'freebite-bitcoin';
+	src:url('fonts/freebite-bitcoin.eot?-4hfan4');
+	src:url('fonts/freebite-bitcoin.eot?#iefix-4hfan4') format('embedded-opentype'),
+		url('fonts/freebite-bitcoin.woff?-4hfan4') format('woff'),
+		url('fonts/freebite-bitcoin.ttf?-4hfan4') format('truetype'),
+		url('fonts/freebite-bitcoin.svg?-4hfan4#freebite-bitcoin') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="fb-"], [class*=" fb-"] {
+	font-family: 'freebite-bitcoin';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.fb-Bitcoin:before {
+	content: "\e600";
+}
+.fb-bitcoin-in-processor:before {
+	content: "\e601";
+}
+.fb-bitcoin-with-qr-code:before {
+	content: "\e602";
+}
+.fb-bitcoin-in-sim-card:before {
+	content: "\e603";
+}
+.fb-bitcoin-and-laptop:before {
+	content: "\e604";
+}
+.fb-bitcoin-placeholder-and-laptop:before {
+	content: "\e605";
+}
+.fb-bitcoin-and-placeholder:before {
+	content: "\e606";
+}
+.fb-bitcoin-network:before {
+	content: "\e607";
+}
+.fb-bitcoin-mobile-phone-connect-graph:before {
+	content: "\e608";
+}
+.fb-bitcoin-network2:before {
+	content: "\e609";
+}
+.fb-bitcoin-pocket-key-hole:before {
+	content: "\e60a";
+}
+.fb-bitcoin-bubble-talk:before {
+	content: "\e60b";
+}
+.fb-bitcoin-pocket:before {
+	content: "\e60c";
+}
+.fb-bitcoin-cloud-up-arrow:before {
+	content: "\e60d";
+}
+.fb-bitcoin-cloud-with-down-arrow:before {
+	content: "\e60e";
+}
+.fb-bitcoin-cloud:before {
+	content: "\e60f";
+}
+.fb-bitcoin-graphich-bar-laptop:before {
+	content: "\e610";
+}
+.fb-bitcoin-graph-bar:before {
+	content: "\e611";
+}
+.fb-bitcoin-graph-bar-with-up-arrow:before {
+	content: "\e612";
+}
+.fb-bitcoin-down-line:before {
+	content: "\e613";
+}
+.fb-bitcoin-key:before {
+	content: "\e614";
+}
+.fb-bitcoinc-circle-arrow:before {
+	content: "\e615";
+}
+.fb-bitcoin-circle-connect:before {
+	content: "\e616";
+}
+.fb-bitcoin-globe:before {
+	content: "\e617";
+}
+.fb-bitcoin-mechanic:before {
+	content: "\e618";
+}
+.fb-bitcoin-label:before {
+	content: "\e619";
+}
+.fb-bitcoin-ticket:before {
+	content: "\e61a";
+}
+.fb-bitcoin-withdraw:before {
+	content: "\e61b";
+}
+.fb-bitcoin-withdraw2:before {
+	content: "\e61c";
+}
+.fb-bitcoin-credit-card:before {
+	content: "\e61d";
+}
+.fb-bitcoin-id-card:before {
+	content: "\e61e";
+}
+.fb-bitcoin-stack:before {
+	content: "\e61f";
+}
+.fb-bitcoin-safety-shield:before {
+	content: "\e620";
+}
+.fb-bitcoin-discount:before {
+	content: "\e621";
+}
+.fb-bitcoin-flower-pot:before {
+	content: "\e622";
+}
+.fb-bitcoin-olive-leaves:before {
+	content: "\e623";
+}
+.fb-bitcoin-olive-leaves2:before {
+	content: "\e624";
+}
+.fb-bitcoin-papers:before {
+	content: "\e625";
+}
+.fb-bitcoin-paper-money:before {
+	content: "\e626";
+}
+.fb-bitcoin-bag:before {
+	content: "\e627";
+}
+.fb-bitcoin-time:before {
+	content: "\e628";
+}
+.fb-bitcoin-usb:before {
+	content: "\e629";
+}
+.fb-bitcoin-trolley:before {
+	content: "\e62a";
+}
+.fb-bitcoin-safety-shoop-shield:before {
+	content: "\e62b";
+}
+.fb-bitcoin-trolley2:before {
+	content: "\e62c";
+}
+.fb-bitcoin-sack:before {
+	content: "\e62d";
+}
+.fb-bitcoin-digiotal-network:before {
+	content: "\e62e";
+}
+.fb-bitcoin-shop:before {
+	content: "\e62f";
+}
+.fb-bitcoin-not-accept:before {
+	content: "\e630";
+}
+.fb-bitcoin-emblem:before {
+	content: "\e631";
+}
+.fb-bitcoin-science-symbol:before {
+	content: "\e632";
+}
+.fb-bitcoin-up-coin:before {
+	content: "\e633";
+}
+.fb-bitcoin-down-coin:before {
+	content: "\e634";
+}
+.fb-bitcoin-logo:before {
+	content: "\e635";
+}
+.fb-bitcoin-label2:before {
+	content: "\e636";
+}
+.fb-bitcoin-safe-pig:before {
+	content: "\e637";
+}
+.fb-bitcoin-exchange-rate:before {
+	content: "\e638";
+}
+.fb-bitcoin-exchange-rate2:before {
+	content: "\e639";
+}
+.fb-bitcoin-exchange-rate3:before {
+	content: "\e63a";
+}
+.fb-bitcoin-safety-lock:before {
+	content: "\e63b";
+}
+.fb-bitcoin-usher:before {
+	content: "\e63c";
+}
+.fb-bitcoin-usher-safety-shield:before {
+	content: "\e63d";
+}
+.fb-bitcoin-usher-down-line:before {
+	content: "\e63e";
+}
+.fb-bitcoin-electric:before {
+	content: "\e63f";
+}
+.fb-bitcoin-not-accept2:before {
+	content: "\e640";
+}
+.fb-bitcoin-accept:before {
+	content: "\e641";
+}
+.fb-bitcoin-mail-send:before {
+	content: "\e642";
+}
+.fb-bitcoin-connect-up-graph:before {
+	content: "\e643";
+}
+.fb-bitcoin-pocket2:before {
+	content: "\e644";
+}
+.fb-bitcoin-exchange-rate4:before {
+	content: "\e645";
+}
+.fb-bitcoin-usher-connect:before {
+	content: "\e646";
+}
+.fb-bitcoin-accepted-here-logo:before {
+	content: "\e647";
+}
+.fb-bitcoin-digital-currency-logo:before {
+	content: "\e648";
+}
+.fb-bitcoin-drop-water:before {
+	content: "\e649";
+}
+.fb-bitcoin-up-arrow:before {
+	content: "\e64a";
+}
+.fb-bitcoin-down-arrow:before {
+	content: "\e64b";
+}
+.fb-bitcoin-heart-love:before {
+	content: "\e64c";
+}
+.fb-bitcoin-head-mind:before {
+	content: "\e64d";
+}
+.fb-bitcoin-warning:before {
+	content: "\e64e";
+}
+.fb-bitcoin-eye:before {
+	content: "\e64f";
+}
+.fb-bitcoin-presentation:before {
+	content: "\e650";
+}
+.fb-bitcoin-presentation-safety-shield:before {
+	content: "\e651";
+}
+.fb-bitcoin-presentation-safe-pig:before {
+	content: "\e652";
+}
+.fb-bitcoin-presentation-graph-bar:before {
+	content: "\e654";
+}
+.fb-bitcoin-presentation-circle--arrow:before {
+	content: "\e655";
+}
+.fb-bitcoin-presentation-graph-bar2:before {
+	content: "\e656";
+}
+.fb-bitcoin-presentation-qr-code:before {
+	content: "\e657";
+}
+.fb-bitcoin-presentation-currency-exchange:before {
+	content: "\e658";
+}
+.fb-bitcoin-currency-:before {
+	content: "\e659";
+}
+.fb-bitcoin-mobile-phone:before {
+	content: "\e65a";
+}
+.fb-bitcoin-mobile-phone-placeholder:before {
+	content: "\e65b";
+}
+.fb-bitcoin-email-mobile-phone:before {
+	content: "\e65c";
+}
+.fb-bitcoin-mobile-phone-cloud-down-arrow:before {
+	content: "\e65d";
+}
+.fb-bitcoin-mobile-phone-cloud-up-arrow:before {
+	content: "\e65e";
+}
+.fb-bitcoin-mobile-phone-secure-shield:before {
+	content: "\e65f";
+}
+.fb-bitcoin-qr-code-mobile-phone:before {
+	content: "\e660";
+}
+.fb-bitcoin-mobile-phone-science:before {
+	content: "\e661";
+}
+.fb-bitcoin-mobile-phone-up-arrow:before {
+	content: "\e662";
+}
+.fb-bitcoin-and-science-symbol:before {
+	content: "\e663";
+}
+.fb-bitcoin-presentation-sack:before {
+	content: "\e653";
+}
